@@ -122,7 +122,7 @@ footer{
     }
     
     table{
-        flex-direction: row;
+        flex-direction: column;
     }
     .cast{
         width: 15vw;
